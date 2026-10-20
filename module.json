@@ -2,7 +2,7 @@
   "id": "galadria-content",
   "title": "Galadria Campaign Content",
   "description": "Consolidated homebrew compendiums for the world of Galadria.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "compatibility": {
     "minimum": "11",
     "verified": "12"
@@ -19,7 +19,7 @@
   "packs": [
     {
       "name": "galadria-classes",
-      "label": "Galadria: Classes & Subclasses",
+      "label": "Classes",
       "path": "packs/classes",
       "type": "Item",
       "system": "dnd5e",
@@ -27,7 +27,7 @@
     },
     {
       "name": "galadria-subclasses",
-      "label": "Galadria: Core Class Subclasses",
+      "label": "Subclasses",
       "path": "packs/subclasses",
       "type": "Item",
       "system": "dnd5e",
@@ -35,7 +35,7 @@
     },
     {
       "name": "galadria-spells",
-      "label": "Galadria: Spells",
+      "label": "Spells",
       "path": "packs/spells",
       "type": "Item",
       "system": "dnd5e",
@@ -43,7 +43,7 @@
     },
     {
       "name": "galadria-creatures",
-      "label": "Galadria: Creatures",
+      "label": "Creatures",
       "path": "packs/creatures",
       "type": "Actor",
       "system": "dnd5e",
@@ -51,7 +51,7 @@
     },
     {
       "name": "galadria-backgrounds",
-      "label": "Galadria: Backgrounds",
+      "label": "Backgrounds",
       "path": "packs/backgrounds",
       "type": "Item",
       "system": "dnd5e",
@@ -59,7 +59,7 @@
     },
     {
       "name": "galadria-feats",
-      "label": "Galadria: Feats",
+      "label": "Feats",
       "path": "packs/feats",
       "type": "Item",
       "system": "dnd5e",
@@ -67,7 +67,7 @@
     },
     {
       "name": "galadria-species",
-      "label": "Galadria: Species",
+      "label": "Species",
       "path": "packs/species",
       "type": "Item",
       "system": "dnd5e",
@@ -75,7 +75,7 @@
     },
     {
       "name": "galadria-equipment",
-      "label": "Galadria: Equipment & Magic Items",
+      "label": "Equipment & Magic Items",
       "path": "packs/equipment",
       "type": "Item",
       "system": "dnd5e",
@@ -83,7 +83,7 @@
     },
     {
       "name": "galadria-monster-features",
-      "label": "Galadria: Monster Features",
+      "label": "Monster Features",
       "path": "packs/monster-features",
       "type": "Item",
       "system": "dnd5e",
