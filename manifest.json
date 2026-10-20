@@ -90,6 +90,6 @@
       "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" }
     }
   ],
-  "manifest": "https://raw.githubusercontent.com/<YOUR_GITHUB_USERNAME>/galadria-content/main/module.json",
-  "download": "https://github.com/<YOUR_GITHUB_USERNAME>/galadria-content/releases/latest/download/galadria-content.zip"
+  "manifest": "https://raw.githubusercontent.com/MasterNo2/galadria-content/main/module.json",
+  "download": "https://github.com/Masterno2/galadria-content/releases/latest/download/galadria-content.zip"
 }
