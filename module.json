@@ -2,7 +2,7 @@
   "id": "galadria-content",
   "title": "Galadria Campaign Content",
   "description": "Consolidated homebrew compendiums for the world of Galadria.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "compatibility": {
     "minimum": "11",
     "verified": "12"
@@ -88,6 +88,24 @@
       "type": "Item",
       "system": "dnd5e",
       "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" }
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "Galadria Content",
+      "sorting": "a",
+      "color": "#5e35b1",
+      "packs": [
+        "galadria-classes",
+        "galadria-subclasses",
+        "galadria-spells",
+        "galadria-creatures",
+        "galadria-backgrounds",
+        "galadria-feats",
+        "galadria-species",
+        "galadria-equipment",
+        "galadria-monster-features"
+      ]
     }
   ],
   "manifest": "https://raw.githubusercontent.com/MasterNo2/galadria-content/main/module.json",
