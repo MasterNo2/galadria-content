@@ -1,0 +1,95 @@
+{
+  "id": "galadria-content",
+  "title": "Galadria Campaign Content",
+  "description": "Consolidated homebrew compendiums for the world of Galadria.",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "12"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "packs": [
+    {
+      "name": "galadria-classes",
+      "label": "Galadria: Classes & Subclasses",
+      "path": "packs/classes",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" }
+    },
+    {
+      "name": "galadria-subclasses",
+      "label": "Galadria: Core Class Subclasses",
+      "path": "packs/subclasses",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" }
+    },
+    {
+      "name": "galadria-spells",
+      "label": "Galadria: Spells",
+      "path": "packs/spells",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" }
+    },
+    {
+      "name": "galadria-creatures",
+      "label": "Galadria: Creatures",
+      "path": "packs/creatures",
+      "type": "Actor",
+      "system": "dnd5e",
+      "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" }
+    },
+    {
+      "name": "galadria-backgrounds",
+      "label": "Galadria: Backgrounds",
+      "path": "packs/backgrounds",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" }
+    },
+    {
+      "name": "galadria-feats",
+      "label": "Galadria: Feats",
+      "path": "packs/feats",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" }
+    },
+    {
+      "name": "galadria-species",
+      "label": "Galadria: Species",
+      "path": "packs/species",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" }
+    },
+    {
+      "name": "galadria-equipment",
+      "label": "Galadria: Equipment & Magic Items",
+      "path": "packs/equipment",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" }
+    },
+    {
+      "name": "galadria-monster-features",
+      "label": "Galadria: Monster Features",
+      "path": "packs/monster-features",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" }
+    }
+  ],
+  "manifest": "https://raw.githubusercontent.com/<YOUR_GITHUB_USERNAME>/galadria-content/main/module.json",
+  "download": "https://github.com/<YOUR_GITHUB_USERNAME>/galadria-content/releases/latest/download/galadria-content.zip"
+}
